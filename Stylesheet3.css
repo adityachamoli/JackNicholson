@@ -1,0 +1,41 @@
+body {
+  background-color: BlanchedAlmond !important;
+  font-size: 135%;
+  width: 45em;
+  margin: 1em auto;
+}
+body h2 {
+  font-size: 200%;
+  text-align: center;
+  color: DarkGoldenRod;
+  text-shadow: -3px -3px 5px #FFFFFF;
+}
+body h3 {
+  font-size: 120%;
+  color: Gold;
+}
+ul {
+  color: GoldenRod;
+  font-size: 100%;
+}
+ul a:link {
+  color: DarkGoldenRod;
+  font-size: 110%;
+}
+ul a:visited {
+  color: GoldenRod;
+  font-size: 100%;
+}
+ul a:active {
+  color: Black;
+  font-size: 100%;
+}
+ul a:hover,a:focus {
+  text-transform: uppercase;
+  text-rendering: optimizeSpeed;
+  font-family: 'Times New Roman', sans-serif;
+}
+header~footer {
+  font-size: 130%;
+  text-align: center;
+}

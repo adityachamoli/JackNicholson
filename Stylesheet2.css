@@ -1,0 +1,14 @@
+body {
+  background-image: url("background1.jpg");
+  height: 100px;
+  background-position: center;
+  background-color: DarkGoldenRod;
+  font-size: 135%;
+}
+img {
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
